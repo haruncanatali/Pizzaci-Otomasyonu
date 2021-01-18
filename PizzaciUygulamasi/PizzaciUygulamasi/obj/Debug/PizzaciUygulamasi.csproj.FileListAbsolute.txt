@@ -1,0 +1,29 @@
+E:\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\bin\Debug\PizzaciUygulamasi.exe.config
+E:\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\bin\Debug\PizzaciUygulamasi.exe
+E:\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\bin\Debug\PizzaciUygulamasi.pdb
+E:\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.csprojAssemblyReference.cache
+E:\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.Form1.resources
+E:\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.Properties.Resources.resources
+E:\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.csproj.GenerateResource.cache
+E:\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.exe
+E:\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.pdb
+E:\Ders Çalışmalarım\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\bin\Debug\PizzaciUygulamasi.exe.config
+E:\Ders Çalışmalarım\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\bin\Debug\PizzaciUygulamasi.exe
+E:\Ders Çalışmalarım\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\bin\Debug\PizzaciUygulamasi.pdb
+E:\Ders Çalışmalarım\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.csprojAssemblyReference.cache
+E:\Ders Çalışmalarım\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.Form1.resources
+E:\Ders Çalışmalarım\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.Properties.Resources.resources
+E:\Ders Çalışmalarım\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.csproj.GenerateResource.cache
+E:\Ders Çalışmalarım\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.csproj.CoreCompileInputs.cache
+E:\Ders Çalışmalarım\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.exe
+E:\Ders Çalışmalarım\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.pdb
+E:\derscalismalarim\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\bin\Debug\PizzaciUygulamasi.exe.config
+E:\derscalismalarim\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\bin\Debug\PizzaciUygulamasi.exe
+E:\derscalismalarim\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\bin\Debug\PizzaciUygulamasi.pdb
+E:\derscalismalarim\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.csprojAssemblyReference.cache
+E:\derscalismalarim\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.Form1.resources
+E:\derscalismalarim\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.Properties.Resources.resources
+E:\derscalismalarim\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.csproj.GenerateResource.cache
+E:\derscalismalarim\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.csproj.CoreCompileInputs.cache
+E:\derscalismalarim\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.exe
+E:\derscalismalarim\OkulC#\PizzaciUygulamasi\PizzaciUygulamasi\obj\Debug\PizzaciUygulamasi.pdb
