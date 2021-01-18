@@ -1,5 +1,5 @@
 # Pizzacı Otomasyonu
-Bu otomasyonda pizzacı sipariş takip sistemi geliştirilmiştir.Veri tabanı kullanılmamıştır.
+Bu otomasyonda basit bir pizzacı sipariş takip sistemi geliştirilmiştir.Veri tabanı kullanılmamıştır.
 
 ## Projeden Görüntü
 
